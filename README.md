@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Olá, me chamo Mariana! 👋
+# Olá, eu sou a Mariana! 👋
 
 Sou estudante de Desenvolvimento de Sistemas, focada em criar soluções web e scripts em Python.
 
